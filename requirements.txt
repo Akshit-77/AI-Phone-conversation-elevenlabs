@@ -1,0 +1,9 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+websockets==12.0
+openai==1.54.3
+twilio==8.10.3
+streamlit==1.28.1
+requests==2.31.0
+python-multipart==0.0.6
+pyngrok==7.0.0
